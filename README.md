@@ -11,14 +11,49 @@ The laboratory was developed using Docker with the following image:
 ## Structure
 
 ### Part 1
+
 - Hello World
+
 - Stack, Heap and Text/Code memory addresses
-- Multiprocess with fork()
-- Multithreading with pthread
-- IPC with pipe()
+
+- Multiprocess with `fork()`
+
+- Multithreading with `pthread`
+
+- IPC with `pipe()`
+
 - IPC using message structures
+
 - Challenge 1
+
+  - Sequential version
+
+  - Multiprocess version
+
+  - Multithreading version
+
 - Challenge 2
 
+  - Sequential version
+
+  - Multiprocess version
+
+  - Multithreading version
+
 ### Part 2
-Memory addressing activities.
+
+- Activity 1: Variable memory address and modification using pointers
+
+- Activity 2: Pointers and references
+
+- Activity 3: Arrays and pointer arithmetic
+
+- Activity 4: Dynamic memory allocation and 2D matrix
+
+- Extra: Stack, Heap and Text/Code memory addresses
+
+## Authors
+
+- Martin Estrada
+
+- Juan José López 
